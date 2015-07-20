@@ -1,2 +1,2 @@
 # ionick.github.io
-GitHub Page Site
+Nicholas Chen's GitHub Page Site
